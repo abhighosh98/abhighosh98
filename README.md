@@ -1,4 +1,10 @@
-### Hi there 👋
+Sometimes, all you need to find the missing parenthesis throwing errors is to step away and have a 6 hour gaming session. 
+
+Work doesn't feel like work when you're working on your passion. For me, this happens when I am working on solving a problem in the field of FinTech. It has taken some time for me to find this passion of mine. I have been pursuing since I turned 18 when my parents introduced me to the stock market. 
+
+This led me to take a deep dive into Machine Learning and Data Science as a profession. Having developed a penchant for the same, I hit the ground running working for Quantiphi Analytics as a Machine Learning Engineering. I undertook a journey of immense learning during this tenure, understanding the workings of the corporate world from the perspective of a young engineer. 
+
+In the other half of my life I am an avid gamer, play a slew of sports, exercise, love to drive cars and motorbikes.
 
 <!--
 **abhighosh98/abhighosh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
